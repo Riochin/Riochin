@@ -1,16 +1,17 @@
-## Hi there 👋
 <!-- 1. GitHub usernameを変更 -->
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=username" />
-</div>
-
 
 <!-- 2. プロフィールや連絡先を変更 -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
+[![Twitter: maki_saki](https://img.shields.io/twitter/follow/__Riochin2623?style=social)](https://twitter.com/__Riochin2623)
 
+<div align="left">
+  
+  <img src="https://komarev.com/ghpvc/?username=Riochin" />
+</div>
+<!-- 
 - 🧑‍💻 I'm a University Student!
 - 🌱 I’m currently learning FastAPI!
-- 📫 How to reach me: [Twitter - @__riochin2623](https://twitter.com/__riochin2623)
+- 📫 How to reach me: [Twitter - @__riochin2623](https://twitter.com/__riochin2623) -->
 <br>
 
 
