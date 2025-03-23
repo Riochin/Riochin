@@ -6,7 +6,6 @@
 
 <div align="left">
 
-## 🛠 Tech Stack
   <img src="https://komarev.com/ghpvc/?username=Riochin" />
 </div>
 
@@ -18,6 +17,7 @@
 <!-- 3. 好きな技術スタックに変更 -->
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
+
 <!--
 ## 🌱 Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,figma,java,python,fastapi,docker,aws,firebase" />
