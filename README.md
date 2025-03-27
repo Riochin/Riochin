@@ -11,7 +11,7 @@
 
 - 🧑‍💻 I'm a University Student passionate about Software Development!
 - 📫 How to reach me: [Twitter - @__riochin2623](https://twitter.com/__riochin2623)
-- 👀 Look at my Stars!: [⭐️ Stars ](github.com/Riochin?tab=stars)
+- 👀 Look at my Stars!: [⭐️ Stars ](https://github.com/Riochin?tab=stars)
 <br>
 
 
