@@ -25,7 +25,7 @@
 <br>
  -->
 
-<!-- 4. GitHub usernameを変更, 2箇所 -->
+<!-- 4. GitHub usernameを変更, 2箇所  -->
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
 ## 🏃‍♀️ Activities
 <div align="left"> 
