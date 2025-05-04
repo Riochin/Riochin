@@ -21,7 +21,6 @@
 <br>
 
 <!-- 3. 🚀Skills -->
-<!-- ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" alt="Rocket" width="25" height="25" /> 𝚂𝚔𝚒𝚕𝚕𝚜 -->
 
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
@@ -41,8 +40,6 @@
 <br><br>
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Two%20Hearts.webp" alt="Two Hearts" width="25" height="25" /> 𝙰𝚕𝚠𝚊𝚢𝚜 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 & 𝚎𝚡𝚙𝚕𝚘𝚛𝚒𝚗𝚐 𝚗𝚎𝚠 𝚝𝚎𝚌𝚑!
-
-<!-- ## 𝙼𝚢 𝚂𝙽𝚂 𝙰𝚌𝚌𝚘𝚞𝚗𝚝𝚜 -->
 
 <br>
 
