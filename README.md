@@ -26,7 +26,7 @@
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 
 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=vscode,docker,ts,python,fastapi,next,supabase" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=vscode,docker,ts,go,python,next,supabase" />
 
 <br>
 <br>
