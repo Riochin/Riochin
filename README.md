@@ -44,6 +44,7 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riochin&hide=jupyter%20notebook&theme=jolly&layout=compact&count_private=true" />
 
   <!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/riochin?theme=radical&font=Nova%20Slim) -->
+  <!-- ![Developer Score](https://github-stats-eta-two.vercel.app/api/stats/riochin?theme=purple) -->
 
 <br><br>
 
