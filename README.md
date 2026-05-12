@@ -58,7 +58,7 @@
 
 <br><br>
 
-[![Twitter: Riochin](https://img.shields.io/twitter/follow/__Riochin2623?style=social)](https://twitter.com/__Riochin2623)
+[![Twitter: Riochin](https://img.shields.io/twitter/follow/Riochin555?style=social)](https://twitter.com/Riochin555)
 <img src="https://komarev.com/ghpvc/?username=Riochin" />
 
 
