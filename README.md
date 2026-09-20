@@ -1,6 +1,6 @@
 <!-- 1. 流れるメッセージ -->
 <div align="center">
-<a href="https://github.com/kawarimidoll/typograssy"><img alt="typograssy" src="https://typograssy.deno.dev/api?text=Hello%20world!&comment=%F0%9F%92%9CGenerated%20by%20kawarimidoll/typograssy%F0%9F%92%9C&l0=fcf8fa&l1=c78daa&l2=d5aabf&l3=b87295&l4=8d476a&frame=fff"></a>
+<a href="https://github.com/kawarimidoll/typograssy"><img alt="typograssy" src="./profile/typograssy.svg"></a>
 
 
 <!-- 2. Hi There -->
@@ -40,8 +40,8 @@
 <!-- 4. 📈GitHub Activities  -->
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25" /> 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚒𝚎𝚜
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api?username=Riochin&theme=jolly&layout=compact&count_private=true" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riochin&hide=jupyter%20notebook&theme=jolly&layout=compact&count_private=true" />
+  <img alt="github stats" height="150px" src="./profile/stats.svg" />
+  <img alt="Top Langs" height="150px" src="./profile/top-langs.svg" />
 
   <!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/riochin?theme=radical&font=Nova%20Slim) -->
   <!-- ![Developer Score](https://github-stats-eta-two.vercel.app/api/stats/riochin?theme=purple) -->
