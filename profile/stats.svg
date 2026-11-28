@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Riochin&#39;s GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 23, Total Commits  (last year) : 1672, Total PRs: 483, Total Issues: 525, Contributed to (last year): 6</desc>
+        <desc id="descId">Total Stars Earned: 23, Total Commits  (last year) : 1674, Total PRs: 483, Total Issues: 525, Contributed to (last year): 6</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 61.45534813393347;
+        stroke-dashoffset: 61.45310160569083;
       }
     }
   
